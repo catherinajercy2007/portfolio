@@ -1,0 +1,128 @@
+/* General Page Style */
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background-color: #f4f6f8;
+  margin: 0;
+  color: #333;
+}
+
+/* Navigation Bar */
+nav {
+  background-color: #1f2937;
+  padding: 12px;
+  text-align: center;
+}
+
+nav a {
+  color: #ffffff;
+  margin: 15px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+nav a:hover {
+  color: #38bdf8;
+}
+
+/* Header Section */
+header {
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+header p {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+/* Section Cards */
+section {
+  background-color: white;
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 25px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+section h2 {
+  text-align: center;
+  margin-bottom: 15px;
+  color: #1f2937;
+}
+
+/* Skills List */
+ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+ul li {
+  display: inline-block;
+  background-color: #e0f2fe;
+  color: #0369a1;
+  padding: 8px 15px;
+  margin: 6px;
+  border-radius: 20px;
+  font-weight: 500;
+}
+
+/* Smooth Scroll */
+html {
+  scroll-behavior: smooth;
+}
+.resume-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 25px;
+  background-color: #38bdf8;
+  color: #1f2937;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 25px;
+  transition: background-color 0.3s;
+}
+
+.resume-btn:hover {
+  background-color: #0ea5e9;
+  color: white;
+}
+.linkedin-btn {
+  display: inline-block;
+  margin-top: 15px;
+  margin-left: 10px;
+  padding: 12px 25px;
+  background-color: #0a66c2;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 25px;
+  transition: background-color 0.3s;
+}
+
+.linkedin-btn:hover {
+  background-color: #004182;
+}
+.achievement-list {
+  list-style-type: none;
+  padding: 0;
+  max-width: 600px;
+  margin: auto;
+}
+
+.achievement-list li {
+  background-color: #ecfeff;
+  margin: 10px 0;
+  padding: 12px 18px;
+  border-left: 5px solid #06b6d4;
+  border-radius: 5px;
+  font-weight: 500;
+}
