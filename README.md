@@ -1,25 +1,54 @@
-# 🌐 SaiKet Systems Web Development Internship
+# 🌐 Personal Portfolio Website
 
-This repository contains all the tasks completed as part of my **Web Development Internship at SaiKet Systems**.  
-It includes basic to intermediate level projects using **HTML, CSS, and JavaScript**.
-
----
-
-## 👩‍💻 Intern Details
-- **Name:** Catherina Jercy J  
-- **Role:** Web Development Intern  
-- **Duration:** 4 Weeks  
-- **Organization:** SaiKet Systems  
+This project is a personal portfolio website created as part of my Web Development Internship.  
+It showcases my profile, skills, and projects in a clean, responsive, and user-friendly layout.
 
 ---
 
-## 🛠️ Technologies Used
-- HTML 
-- CSS  
-- JavaScript (Basic)  
-- Visual Studio Code  
-- Google Chrome  
+## 📄 Description
+
+The goal of this project was to build a simple and professional portfolio that represents my personal brand and technical skills.
 
 ---
 
-## 📁 Project Structure
+## 🚀 Features
+
+- Responsive layout for all screen sizes  
+- About Me, Skills, and Projects sections  
+- Smooth navigation  
+- Clean and modern UI  
+
+---
+
+## 🛠 Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+## 🔗 Live Demo
+
+(Add your live link here)
+
+---
+
+## 📂 Repository
+
+(Add your GitHub repo link here)
+
+---
+
+## 📌 Key Learnings
+
+- Structuring semantic HTML  
+- Designing responsive layouts using CSS  
+- Organizing a frontend project  
+- Deploying projects using GitHub Pages  
+
+---
+
+## 🙏 Acknowledgement
+
+Thanks to my internship mentors for their guidance and support throughout this task.
