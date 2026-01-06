@@ -30,13 +30,13 @@ The goal of this project was to build a simple and professional portfolio that r
 
 ## 🔗 Live Demo
 
-(Add your live link here)
+https://catherinajercy2007.github.io/portfolio/
 
 ---
 
 ## 📂 Repository
 
-(Add your GitHub repo link here)
+https://github.com/catherinajercy2007/portfolio
 
 ---
 
